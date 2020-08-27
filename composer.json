@@ -1,0 +1,16 @@
+{
+    "name": "nomedia/aiweber",
+    "description": "a php mvc framework",
+    "authors": [
+        {
+            "name": "Xiaoyou Chen",
+            "email": "chen_xiaoyou@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
